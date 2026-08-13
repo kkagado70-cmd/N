@@ -1,4 +1,4 @@
-package com.example;
+package com;
 
 import com.example.gui.MatrixClickGui;
 import net.fabricmc.api.ClientModInitializer;

@@ -1,4 +1,4 @@
-package com.example.gui;
+package com;
 
 import com.example.modules.ModuleManager;
 import net.minecraft.client.gui.DrawContext;

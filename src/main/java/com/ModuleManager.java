@@ -1,4 +1,4 @@
-package com.example.modules;
+package com;
 
 import org.lwjgl.glfw.GLFW;
 import java.util.ArrayList;
